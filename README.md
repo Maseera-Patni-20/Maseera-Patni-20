@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maseera Patni</h1>
-<h3 align="center">I am Maseera Patni, a computer science student at Vishwakarma University, passionate about data science and always eager to innovate and learn. My interests lie in business analysis and data analysis, where I aim to leverage data to drive meaningful insights and innovative solutions.</h3>
+<h3 align="center">A computer science student at Vishwakarma University, passionate about data science and always eager to innovate and learn. My interests lie in business analysis and data analysis, where I aim to leverage data to drive meaningful insights and innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maseera-patni-20&label=Profile%20views&color=0e75b6&style=flat" alt="maseera-patni-20" /> </p>
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maseera-patni-20&show_icons=true&locale=en" alt="maseera-patni-20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maseera-patni-20&" alt="maseera-patni-20" /></p>
-
