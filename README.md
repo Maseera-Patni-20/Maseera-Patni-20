@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maseera-patni-20" alt="maseera-patni-20" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science&Analysis**
 
-- 💬 Ask me about **Python,Statistics,Machine Learning,MySQL,Deep Learning**
+- 💬 Ask me about **Python,Statistics,Machine Learning,MySQL,Deep Learning ,PowerBI,Tableau**
 
 - 📫 Reach me through my email **maseerapanja@gmail.com**
 
