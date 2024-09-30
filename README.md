@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maseera Patni</h1>
-<h3 align="center">A passionate computer science student at Vishwakarma University, currently honing skills in web development and mastering data structures and algorithms, with a strong aspiration to become a software developer in the future.</h3>
+<h3 align="center">A 3rd-year Computer Science student at Vishwakarma University. I enjoy problem-solving and coding, and I'm excited to work on projects that make a positive impact. Open to new opportunities and collaborations!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maseera-patni-20&label=Profile%20views&color=0e75b6&style=flat" alt="maseera-patni-20" /> </p>
 
