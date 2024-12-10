@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maseera-patni-20" alt="maseera-patni-20" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and exploring Devops**
-
-- 🌱 Also working on my Major Project **"CarePulse-Streamlined Patient Management System"**
-
 - 📫 Reach me through my email **maseerapanja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
